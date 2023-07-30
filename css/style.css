@@ -733,9 +733,9 @@ footer {
 }
 
 .checkbox-custom {
-    display: inline-flex;
     align-items: center;
     justify-content: center;
+    display: inline-flex;
     width: 16px;
     height: 16px;
     border-radius: 2px;
