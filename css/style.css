@@ -720,7 +720,7 @@ footer {
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 0.04em;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     line-height: 1.17;
 }
