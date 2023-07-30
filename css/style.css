@@ -720,9 +720,9 @@ footer {
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 0.04em;
+    line-height: 1.17;
     display: inline-flex;
     align-items: center;
-    line-height: 1.17;
 }
 .privacy {
     color: #4D5AE5;
@@ -733,9 +733,9 @@ footer {
 }
 
 .checkbox-custom {
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    display: inline-flex;
     width: 16px;
     height: 16px;
     border-radius: 2px;
