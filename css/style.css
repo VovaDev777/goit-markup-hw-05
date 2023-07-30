@@ -742,7 +742,7 @@ footer {
 
 .checkbox-mark:checked + .checkbox-text span {
     background-color: #404BBF;
-    fill: #fff;
+    fill: #ffffff;
     border: none;
 }
 .subscribe-input {
@@ -758,13 +758,14 @@ footer {
     font-size: 12px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    color: #ffffff;
 }
 .subscribe-input:focus {
     border-color: #4D5AE5;
 }
 .subscribe-input::placeholder {
     /* padding: 8px 16px; */
-    color: #fff;
+    color: #ffffff;
 }
 .subscribe-container {
     margin-left: 80px;
